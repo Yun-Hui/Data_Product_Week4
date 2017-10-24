@@ -1,5 +1,4 @@
-# Data_Product_Week4
-R codes for Data Product Week 4 Assignment
+# Data Product Week4 : Shinny App
 
 This project contains R codes for a shinny application, which is development for a cousera course- Data Product Week 4 assignment.
 This repository contains 4 files:
