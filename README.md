@@ -7,4 +7,4 @@ This repository contains 4 files:
 - Shinny UI code
 - Shinny Server code
 
-You can view the app here:
+You can view the app here:https://yunhuiwang.shinyapps.io/dataproduct2/
